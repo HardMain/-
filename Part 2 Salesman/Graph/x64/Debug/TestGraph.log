@@ -1,0 +1,140 @@
+﻿  SFML.cpp
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(5,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(38,64): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(44,50): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(47,29): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(49,34): warning C4305: *=: усечение из "double" в "float"
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(51,34): warning C4305: *=: усечение из "double" в "float"
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(55,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(61,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(67,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(73,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(79,46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(85,40): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(99,44): warning C4244: аргумент: преобразование "double" в "unsigned int", возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(128,58): warning C4244: =: преобразование "size_t" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(162,131): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(162,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(243,131): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(243,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(297,131): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(297,71): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(414,21): warning C4101: vertex: неиспользованная локальная переменная
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(304,39): warning C4244: =: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(22,218): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<float,float> &std::pair<float,float>::operator =<double,double,0>(std::pair<double,double> &&) noexcept"
+C:\Qt\Creative task\Part 2 Salesman\Graph\SFML.cpp(22,25): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<float,float> &std::pair<float,float>::operator =<double,double,0>(std::pair<double,double> &&) noexcept"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(305,39): warning C4244: =: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+  Graph.cpp
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(96,29): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(114,22): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(139,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(148): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(151,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(157): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(158,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(200,16): warning C4244: инициализация: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(208,53): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<unsigned __int64,unsigned __int64,0>(std::pair<unsigned __int64,unsigned __int64> &&) noexcept"
+C:\Qt\Creative task\Part 2 Salesman\Graph\Graph.cpp(208,37): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<int,int>::pair<unsigned __int64,unsigned __int64,0>(std::pair<unsigned __int64,unsigned __int64> &&) noexcept"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(200,61): warning C4244: инициализация: преобразование "_Ty" в "_Ty2", возможна потеря данных
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+  Source.cpp
+C:\Qt\Creative task\Part 2 Salesman\Graph\Source.cpp(95,38): warning C4353: нестандартное расширение: константа 0 в качестве выражения функции.  Следует заменить на подставляемую функцию "__noop"
+C:\Qt\Creative task\Part 2 Salesman\Graph\Source.cpp(100,45): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Qt\Creative task\Part 2 Salesman\Graph\Source.cpp(101,45): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода...
+  TestGraph.vcxproj -> C:\Qt\Creative task\Part 2 Salesman\Graph\x64\Debug\TestGraph.exe
