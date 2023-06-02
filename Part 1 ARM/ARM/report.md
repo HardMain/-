@@ -25,17 +25,51 @@
 ## Выполнение программы
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/blob/main/assets/116095858/5e36a72c-ef95-415a-8f5c-16bf374f92f1.jpg" width="400"/>
+    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/0db4d950-07c0-448a-b516-d62edc910166.jpg")
+/>
 </p>
 <p align="center">
-    Figure 1: Description of image1
+    Рисунок 1: Главное меню
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/blob/main/assets/116095858/7e8f8c9e-2c72-4d83-bff9-263992ac939b.jpg" width="400"/>
+    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/7e8f8c9e-2c72-4d83-bff9-263992ac939b.jpg")
+/>
 </p>
 <p align="center">
-    Figure 2: Description of image2
+    Рисунок 2: Окно номенклатуры
+</p>
+
+<p align="center">
+    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/ca3a5191-b443-4d6d-97b5-7aa8588af42f.jpg")
+/>
+</p>
+<p align="center">
+    Рисунок 3: Склад
+</p>
+
+<p align="center">
+    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/ee8b082d-972a-49c8-8f7c-af8b2e136759.jpg")
+/>
+</p>
+<p align="center">
+    Рисунок 4: Окно выбора заказа
+</p>
+
+<p align="center">
+    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/6ff2ddfd-854a-4134-87ad-f2dc167941ed.jpg")
+/>
+</p>
+<p align="center">
+    Рисунок 5: Окно ручного заказа
+</p>
+
+<p align="center">
+    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/f768fd42-5b1b-4e49-9394-9a09d376b646.jpg")
+/>
+</p>
+<p align="center">
+    Рисунок 6: Статистика продаж
 </p>
 
 ## Исходный код
