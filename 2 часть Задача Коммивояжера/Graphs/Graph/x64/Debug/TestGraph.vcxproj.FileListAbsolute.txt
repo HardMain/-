@@ -1,2 +1,0 @@
-C:\Users\HP\Desktop\TestGraph\x64\Debug\TestGraph.exe
-C:\Users\Владимир\Desktop\Политех\Инфа\Лабораторные работы 2 семестр\Graphs\Graph\x64\Debug\TestGraph.exe
