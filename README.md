@@ -5,7 +5,7 @@
 - Отчет по задаче Комивояжера: Граф
 
 ## Видео отчет
-Ссылка на YouTube: [https://youtu.be/yMU_4ZuSATE](https://youtu.be/yMU_4ZuSATE)
+Ссылка на YouTube: [https://youtu.be/06ll9tLrKU0](https://youtu.be/06ll9tLrKU0)
 
 ## Разработчики
 Разработал студент ПНИПУ гр. РИС-22-1б **Юхновец Владимир**
