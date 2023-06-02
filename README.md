@@ -2,7 +2,7 @@
 
 ## Отчеты
 - Отчет по автоматизированному рабочему месту АРМ: [АРМ](https://github.com/HardMain/Creative-Task/blob/main/Part%201%20ARM/ARM/report.md)
-- Отчет по задаче Комивояжера: Граф
+- Отчет по задаче Комивояжера: [Граф](https://github.com/HardMain/Creative-Task/blob/main/Part%202%20Salesman/Graph/Readme.md)
 
 ## Видео отчет
 Ссылка на YouTube: [https://youtu.be/06ll9tLrKU0](https://youtu.be/06ll9tLrKU0)
