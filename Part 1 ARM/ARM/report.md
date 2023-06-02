@@ -72,6 +72,14 @@
     Рисунок 6: Статистика продаж
 </p>
 
+<p align="center">
+    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/233bf517-d667-4948-abb3-b9e034c2f237.jpg")
+/>
+</p>
+<p align="center">
+    Рисунок 7: Диаграмма класса
+</p>
+
 ## Исходный код
 
 Исходный код представлен в репозитории: https://github.com/der-i/SalesmanProblem-and-ARM/tree/main/ARM
