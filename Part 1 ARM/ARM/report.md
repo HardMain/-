@@ -25,7 +25,7 @@
 ## Выполнение программы
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/0db4d950-07c0-448a-b516-d62edc910166.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%201%20ARM/ARM/Image/Screenshot_1.png")
 />
 </p>
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/7e8f8c9e-2c72-4d83-bff9-263992ac939b.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%201%20ARM/ARM/Image/nomen.png")
 />
 </p>
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/ca3a5191-b443-4d6d-97b5-7aa8588af42f.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%201%20ARM/ARM/Image/scl.png")
 />
 </p>
 <p align="center">
@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/ee8b082d-972a-49c8-8f7c-af8b2e136759.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%201%20ARM/ARM/Image/nomen.png")
 />
 </p>
 <p align="center">
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/6ff2ddfd-854a-4134-87ad-f2dc167941ed.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%201%20ARM/ARM/Image/ruch.png")
 />
 </p>
 <p align="center">
@@ -65,7 +65,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/f768fd42-5b1b-4e49-9394-9a09d376b646.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%201%20ARM/ARM/Image/stat.png")
 />
 </p>
 <p align="center">
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/233bf517-d667-4948-abb3-b9e034c2f237.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%201%20ARM/ARM/Image/diag.png")
 />
 </p>
 <p align="center">
