@@ -23,7 +23,7 @@
 ## Выполнение программы
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/74be9dbe-ca80-4d68-9b33-1514e61defab.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%202%20Salesman/Graph/Image/vv1.png")
 />
 </p>
 <p align="center">
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/1bde5597-8019-4dc1-887f-c1774aea7ecf.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%202%20Salesman/Graph/Image/viv1.png")
 />
 </p>
 <p align="center">
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/HardMain/Creative-Task/assets/116095858/e4d4b40e-ecac-498a-ab07-57a7e872b4b0.jpg")
+    <img src="https://github.com/HardMain/Creative-Task/blob/main/Part%202%20Salesman/Graph/Image/diag.png")
 />
 </p>
 <p align="center">
